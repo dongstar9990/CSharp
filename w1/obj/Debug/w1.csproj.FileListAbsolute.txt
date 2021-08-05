@@ -1,0 +1,10 @@
+C:\Users\mynam\Downloads\New folder\w1\w1\bin\Debug\w1.exe.config
+C:\Users\mynam\Downloads\New folder\w1\w1\bin\Debug\w1.exe
+C:\Users\mynam\Downloads\New folder\w1\w1\bin\Debug\w1.pdb
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.csproj.AssemblyReference.cache
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.Form1.resources
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.Properties.Resources.resources
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.csproj.GenerateResource.cache
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.exe
+C:\Users\mynam\Downloads\New folder\w1\w1\obj\Debug\w1.pdb
