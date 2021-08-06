@@ -1,0 +1,10 @@
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\bin\Debug\hoangdz.exe.config
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\bin\Debug\hoangdz.exe
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\bin\Debug\hoangdz.pdb
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.csproj.AssemblyReference.cache
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.Form1.resources
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.Properties.Resources.resources
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.csproj.GenerateResource.cache
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.exe
+C:\Users\mynam\Downloads\New folder (2)\hoangdz\hoangdz\obj\Debug\hoangdz.pdb
