@@ -1,0 +1,13 @@
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\bin\Debug\netcoreapp3.1\Bai2.exe
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\bin\Debug\netcoreapp3.1\Bai2.deps.json
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.json
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.dev.json
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\bin\Debug\netcoreapp3.1\Bai2.dll
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\bin\Debug\netcoreapp3.1\Bai2.pdb
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.csproj.AssemblyReference.cache
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfoInputs.cache
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfo.cs
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.dll
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.pdb
+C:\Users\mynam\OneDrive\Desktop\Buoi5\Bai2\obj\Debug\netcoreapp3.1\Bai2.genruntimeconfig.cache
