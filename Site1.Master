@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="test.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <asp:ContentPlaceHolder ID="tieude" runat="server" />
+    <link href="style.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        
+        <div>
+            <div class="container">
+                <header class="header">
+                    <h1>Website Hoang dz</h1>
+                    <div class="nav-bar">
+
+                        <div>
+                            <a href="danhsach.aspx"> Danh sách sinh viên</a>
+                        </div>
+                        <div>
+                            <a href="them.aspx">Thêm sinh viêm</a>
+                        </div>
+                        <div>
+                            <a href="capnhat.aspx">Sửa sinh viêm</a>
+                        </div>
+                        <div>                           
+                            <a href="xoa.aspx"> Xoá sinh viên</a>
+                        </div>
+                        <div>Hướng dẫn</div>
+                    </div>
+                </header>
+
+
+                <div class="main">
+                    <asp:ContentPlaceHolder ID="noidung" runat="server" />
+                </div>
+
+                <footer>Hoang dz siu cap</footer>
+            </div>
+        </div>
+       
+    </form>
+</body>
+</html>

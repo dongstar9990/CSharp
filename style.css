@@ -1,0 +1,22 @@
+﻿body {
+
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+
+.main {
+    margin-top: 20px;
+}
