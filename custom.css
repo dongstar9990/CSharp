@@ -1,0 +1,29 @@
+﻿body {
+}
+
+* {
+    color: black;
+    font-weight: 500;
+}
+
+td {
+    border: 1px solid black;
+    
+}
+
+tr {
+  
+}
+
+.form-view {
+    align-items: center;
+}
+
+tbody {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-view >table > tbody > tr > td > input{
+    width: 300px;
+}
